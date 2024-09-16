@@ -103,3 +103,5 @@ label14:
 label15:
 label16:
 label17:
+
+.asciiz "hello"
