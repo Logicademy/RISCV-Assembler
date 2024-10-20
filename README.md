@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/pluto_title.png" />
+</p>
+
 # RISC-V Assembler
 
 It supports the following 
