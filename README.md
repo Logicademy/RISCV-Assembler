@@ -4,7 +4,7 @@
 
 # RISC-V Assembler
 
-Pluto is a RISC-V Assembler embedded in a Jupyter Notebook environment. The can support the following instructions:
+Pluto is a RISC-V Assembler embedded in a Jupyter Notebook environment. Pluto can support the following instructions:
 
 ## Instructions:  
 `add` `addi` `andi` `and` `auipc` `beq` `bge` `bgeu` `blt` `bltu` `bne` `div` `divu` `jal` `jalr` `lui` `mul` `mulh` `mulhsu` `mulhu` `ori` `or` `rem` `remu` `sll` `slli` `slt` `slti` `sltiu` `sltu` `sra` `srai` `srl` `srli` `sub` `xor` `xori`
